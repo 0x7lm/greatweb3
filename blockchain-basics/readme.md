@@ -67,7 +67,7 @@ The Ethereum Virtual Machine (EVM) is often described as a "quasi-Turing complet
 ### Importance in Ethereum
 - **Smart Contracts:** The EVM allows the execution of complex smart contracts that can automate and enforce agreements without human intervention.
 - **Decentralized Applications (dApps):** By providing a Turing-complete environment, the EVM enables the development of dApps with complex logic and functionality.
-> **&#9432;** For more info [Click](https://www.youtube.com/watch?v=jrDxqHLnCBo&t=0s)
+> **&#9432;** FOR MORE INFO [CLICK](https://www.youtube.com/watch?v=jrDxqHLnCBo&t=0s)
 
 
 ## 3- What is Blockchain?
@@ -189,3 +189,4 @@ Transaction Fee = Gas Price × Gas Limit
 - **Gas Limit** is like the number of gallons of gas needed for your trip.
 
 If you need 10 gallons of gas at $3 per gallon, you would pay $30. Similarly, the transaction fee is calculated based on the gas price and gas limit.
+> **&#9432;** FOR MORE INFO [CLICK](https://youtu.be/HcOWNxL3Iy0?si=ptSJBGHsirVPywI0)
